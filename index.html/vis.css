@@ -1,0 +1,19 @@
+.Fon
+{
+background-image: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg");
+background-repeat: no-repeat; }
+.maintext{
+font-family:'Times New Roman';
+font-size: 15pt;
+text-align:justify
+}
+.dmaintext {
+font-family:'Times New Roman';
+font-size: 30pt;
+text-align:justify
+}  
+.bmaintext {      
+font-family:'Times New Roman';
+font-size: 40pt;
+text-align:justify
+}   
